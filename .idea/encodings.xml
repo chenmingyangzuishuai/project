@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/.babelrc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/build/dev-server.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/App.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/ClassTab/content.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/ClassTab/pinpai.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/anyone.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/banner.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/footer.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/imgs.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/nav.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/watch.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/home-child/water.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/components/shopcar/shopcar.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/config/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/lib/swiper.min.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/banner.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/bed.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/box.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/chufang.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/content.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/fenlei.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/gehu.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/jiadian.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/jiaju.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/lingshi.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/meizhuang.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/muying.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/navList.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/peishi.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/pinpai.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/static/json/shop.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/ClassTab/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/detail/detail.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/List.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/amazing.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/box.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/chufang.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/gehu.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/jiadian.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/jiaju.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/lingshi.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/muying.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/home/peishi.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/myself/myself.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/view/shopcar/shop.vue" charset="UTF-8" />
+  </component>
+</project>
